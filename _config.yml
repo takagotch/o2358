@@ -2,8 +2,8 @@
 name: Travelogue
 description: 'A minimal, single-column Jekyll theme that provides an immersive read experience for your readers'
 
-baseurl: '' # the subpath of your site, e.g. /blog
-url: 'https://takagotch.github.io/page51/' # the base hostname & protocol for your site
+baseurl: 'https://takagotch.github.io/page51' # the subpath of your site, e.g. /blog
+url: 'https://takagotch.github.io/page51' # the base hostname & protocol for your site
 
 # Build settings
 markdown:            kramdown
