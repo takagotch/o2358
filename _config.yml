@@ -1,9 +1,9 @@
 # Site settings
-name: Travelogue
+name: TKVTV
 description: 'A minimal, single-column Jekyll theme that provides an immersive read experience for your readers'
 
-baseurl: 'https://takagotch.github.io/page51' # the subpath of your site, e.g. /blog
-url: 'https://takagotch.github.io/page51' # the base hostname & protocol for your site
+baseurl: '/page51' # the subpath of your site, e.g. /blog
+url: 'https://takagotch.github.io' # the base hostname & protocol for your site
 
 # Build settings
 markdown:            kramdown
@@ -15,9 +15,9 @@ paginate:            8
 paginate_path:       page/:num/
 
 author:
-    name: 'Salvatore Gentile'
+    name: 'takagotch'
     email: ''
-    uri: 'https://github.com/SalGnt'
+    uri: 'https://github.com/takagotch'
 
 sass:
     sass_dir: _sass
@@ -40,3 +40,5 @@ defaults:
 gems:
     - jekyll-feed
     - jekyll-sitemap
+
+
