@@ -3,9 +3,9 @@ layout: post
 title: "Back to Work"
 date: 2015-02-06
 backgrounds:
-    - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/code-screen.jpg
-    - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/the-desk.jpg
-thumb: https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/thumbs/coding.jpg
+    - https://imgur.com/gallery/9KhwTZa
+    - https://imgur.com/gallery/9KhwTZa
+thumb: https://imgur.com/gallery/9KhwTZa
 categories: development work
 tags: home work office coding design
 ---
