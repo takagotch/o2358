@@ -3,8 +3,8 @@ layout: post
 title: "The Sound of Freedom"
 date: 2015-01-09
 backgrounds:
-    - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/desk.jpeg
-thumb: https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/thumbs/drum-rudiment.jpeg
+    - https://imgur.com/gallery/GbmyUEf
+thumb: https://imgur.com/gallery/GbmyUEf
 category: music
 tags: relax fun songs playlist
 ---
@@ -17,3 +17,5 @@ Nulla sollicitudin nibh a magna malesuada, vitae dictum tellus mollis. Etiam sit
 
 ## Donec imperdiet
 Donec imperdiet accumsan faucibus. Nullam faucibus luctus quam, a dapibus neque aliquam quis. Aenean sit amet risus vitae lectus fermentum dapibus. Integer sit amet porttitor nisl. Etiam ac elit purus. Sed vulputate hendrerit euismod. Sed accumsan sem at eros tempor volutpat. Nam iaculis, leo sit amet viverra placerat, ante tortor fringilla erat, ac finibus nunc purus et lectus. Ut eu justo vulputate, tempus odio sed, mattis felis. Proin mollis dolor at sapien condimentum lobortis. Praesent non massa elementum, rutrum dui sit amet, feugiat velit. In a felis sit amet quam ultrices dignissim. Ut efficitur velit at purus placerat, eu finibus est pharetra. Aenean id molestie risus. Mauris gravida erat id diam condimentum viverra.
+
+
