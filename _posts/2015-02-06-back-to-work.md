@@ -3,9 +3,9 @@ layout: post
 title: "Back to Work"
 date: 2015-02-06
 backgrounds:
-    - https://imgur.com/gallery/9KhwTZa
-    - https://imgur.com/gallery/9KhwTZa
-thumb: https://imgur.com/gallery/9KhwTZa
+    - https://i.imgur.com/GbmyUEf.jpeg
+    - https://i.imgur.com/GbmyUEf.jpeg
+thumb: https://i.imgur.com/GbmyUEf.jpeg
 categories: development work
 tags: home work office coding design
 ---
