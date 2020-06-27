@@ -4,7 +4,7 @@ title: "Big City Life"
 date: 2015-01-12
 backgrounds:
     - https://i.imgur.com/hVncUXs.jpg
-    - hhttps://i.imgur.com/hVncUXs.jpg
+    - https://i.imgur.com/hVncUXs.jpg
 thumb: https://i.imgur.com/hVncUXs.jpg
 categories: travel city
 tags: work business metropolis
