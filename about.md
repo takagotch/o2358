@@ -6,7 +6,7 @@ permalink: /about/
 
 Travelogue is a minimal, single-column Jekyll theme that provides an immersive read experience for your readers.
 
-![Post](https://imgur.com/gallery/GbmyUEf)
+![Post](https://i.imgur.com/GbmyUEf.jpeg)
 
 ## Getting Started
 The theme provides a complete Jekyll setup. Download it and start the Jekyll server.
