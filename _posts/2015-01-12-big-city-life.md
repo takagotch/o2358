@@ -3,9 +3,9 @@ layout: post
 title: "Big City Life"
 date: 2015-01-12
 backgrounds:
-    - https://imgur.com/gallery/9KhwTZa
-    - https://imgur.com/gallery/9KhwTZa
-thumb: https://imgur.com/gallery/9KhwTZa
+    - https://imgur.com/hVncUXs
+    - https://imgur.com/hVncUXs
+thumb: https://imgur.com/hVncUXs
 categories: travel city
 tags: work business metropolis
 ---
