@@ -3,10 +3,10 @@ layout: post
 title: "A Snowy Day"
 date: 2015-01-10
 backgrounds:
-    - https://imgur.com/gallery/hVncUXs
-    - https://imgur.com/gallery/hVncUXs
-    - https://imgur.com/gallery/hVncUXs
-thumb: https://imgur.com/gallery/hVncUXs
+    - https://i.imgur.com/9KhwTZa.jpeg
+    - https://i.imgur.com/9KhwTZa.jpeg
+    - https://i.imgur.com/9KhwTZa.jpeg
+thumb: https://i.imgur.com/9KhwTZa.jpeg
 tags: mountain snow nature
 ---
 
